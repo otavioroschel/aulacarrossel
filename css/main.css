@@ -1,0 +1,22 @@
+@import url(../css/grid/header.css);
+@import url(../css/module/carrossel.css);
+@import url(../css/module/cardcombo.css);
+@import url(../css/module/cardbebida.css);
+@import url(../css/grid/contato.css);
+@import url(../css/grid/footer.css);
+
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --animate-duration: 800ms;
+    --animate-delay: 0.9s;
+  }
+
+body {
+    background-color: #F2F0F4;
+}
