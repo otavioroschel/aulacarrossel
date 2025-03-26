@@ -1,9 +1,9 @@
-@import url(../css/grid/header.css);
-@import url(../css/module/carrossel.css);
-@import url(../css/module/cardcombo.css);
-@import url(../css/module/cardbebida.css);
-@import url(../css/grid/contato.css);
-@import url(../css/grid/footer.css);
+@import url(./css/grid/header.css);
+@import url(./css/module/carrossel.css);
+@import url(./css/module/cardcombo.css);
+@import url(./css/module/cardbebida.css);
+@import url(./css/grid/contato.css);
+@import url(./css/grid/footer.css);
 
 
 * {
